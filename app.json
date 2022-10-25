@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-politician",
-    "slug": "my-politician",
+    "name": "Pet Político",
+    "slug": "Pet Politicio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

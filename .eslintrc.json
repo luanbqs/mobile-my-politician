@@ -20,8 +20,12 @@
         "sourceType": "module"
     },
     "plugins": [
-        "react"
+        "react",
+        "react-hooks", 
+        "@typescript-eslint", 
+        "prettier"
     ],
     "rules": {
+        "prettier/prettier": "error"
     }
 }
